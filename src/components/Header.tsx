@@ -12,8 +12,8 @@ export default function Header() {
               <GraduationCap className="h-6 w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Foothills Christian School</h1>
-              <p className="text-sm text-gray-500">Student Attendance System</p>
+              <h1 className="text-sm md:text-xl font-bold text-gray-900">Foothills Christian School</h1>
+              <p className="hidden md:block text-sm text-gray-500">Student Attendance System</p>
             </div>
           </div>
 
